@@ -26,7 +26,7 @@
     "jsc-android": "241213.2.0",
     "mattermost-redux": "github:mattermost/mattermost-redux#1c2b8ed676d2a3f88da38a5932c97d0e799bc13c",
     "mime-db": "1.43.0",
-    "moment-timezone": "0.5.27",
+    "moment-timezone": "0.5.35",
     "prop-types": "15.7.2",
     "react": "16.12.0",
     "react-intl": "2.8.0",
